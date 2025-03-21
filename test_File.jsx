@@ -8,7 +8,7 @@ export default function SimpleUI() {
       <div className="relative w-48">
         <select className="w-full px-3 py-2 border border-gray-300 rounded">
           <option value="" disabled selected>
-            Select an option
+            Select an option below
           </option>
           <option value="option1">Option 1</option>
           <option value="option2">Option 2</option>
