@@ -1,4 +1,4 @@
-export default function SimpleUI() {
+export default function SimpleUI() { //test
   return (
     <div className="p-6 flex flex-col items-center gap-4">
       {/* Button Component */}
